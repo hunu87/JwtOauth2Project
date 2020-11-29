@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "jwt.access.token.secure.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.access.token.secure.key'"
+  },
+  {
+    "name": "jwt.refresh.token.secure.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.refresh.token.secure.key'"
+  },
+  {
+    "name": "jwt.access.token.expire.time",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.access.token.expire.time'"
+  },
+  {
+    "name": "jwt.refresh.token.expire.time",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.refresh.token.expire.time'"
+  },
+  {
+    "name": "jwt.get.access.token.url",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.get.access.token.url'"
+  }
+]}
